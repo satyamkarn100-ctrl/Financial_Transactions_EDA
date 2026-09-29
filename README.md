@@ -549,10 +549,3 @@ payment method patterns, and time-based trends.
 ## Author
 
 **Satyam Karn**
-
-GitHub: [satyamkarn100-ctrl](https://github.com/satyamkarn100-ctrl)
-```
-
-**Bhai ek correction:** tumhare GitHub screenshot ke hisaab se repo ka actual structure `Power-BI/`, `data/`, `notebook/` hai, isliye maine README mein wahi rakha hai. Aur README ko **ML ko overclaim nahi kar raha**—clear hai ki model performance weak thi aur dataset EDA/business analysis ke liye zyada useful nikla. Ye portfolio ke liye honest presentation hai.
-
-Available next action: :chatgpt-content-reference{index="0"}
